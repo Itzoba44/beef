@@ -56,7 +56,7 @@ Start BeEF
 
 To start BeEF, simply run:
 
-  $ ./beef
+  $. /beef
 
 
 Updating
